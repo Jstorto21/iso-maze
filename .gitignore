@@ -18,3 +18,8 @@ pnpm-debug.log*
 .env
 .env.local
 .env.*.local
+
+CLAUDE.md
+GAME.md
+.playwright-mcp/
+.claude/
